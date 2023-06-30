@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+*********SELLERS_FOOD_APP*********
+![myapp2edited](https://github.com/dibbo54/sellers_food_app/assets/136928607/955294c5-e0d1-48c2-b45b-fc1480f4a18e)
+
